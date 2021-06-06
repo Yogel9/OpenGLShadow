@@ -1,0 +1,12 @@
+﻿  main.c
+D:\Users\ogl_begin\ogl_begin\camera.h(48,65): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(50,72): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(53,43): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(59,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(60,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(65,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\camera.h(45,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Users\ogl_begin\ogl_begin\main.c(36,12): warning C4305: функция: усечение из "double" в "float"
+D:\Users\ogl_begin\ogl_begin\main.c(38,34): warning C4305: функция: усечение из "double" в "float"
+D:\Users\ogl_begin\ogl_begin\main.c(45,1): warning C4305: инициализация: усечение из "double" в "float"
+  ogl_begin.vcxproj -> D:\Users\ogl_begin\Debug\ogl_begin.exe
